@@ -1,28 +1,28 @@
-Goals of this project:
+1.) Goals of this project:
 
-Practise data extraction from Twitter
+-Practise data extraction from Twitter
 
-Generate online identity of a Twitter User
+-Generate online identity of a Twitter User
 
-Features implemented:
+2.) Features implemented:
 
-Twitter data extraction.
+-Twitter data extraction.
 
-Sentiment Analysis of the tweets posted and liked by a user.
+-Sentiment Analysis of the tweets posted and liked by a user.
 
-Extraction of Named Entities from the tweets posted and liked by a user using Named Entity Recognition
+-Extraction of Named Entities from the tweets posted and liked by a user using Named Entity Recognition
 
-Identifying the top 15 accounts the user interacts with
+-Identifying the top 15 accounts the user interacts with
 
-Tech Stack of this Project:
+3.) Tech Stack of this Project:
 
-Language: Python3
+-Language: Python3
 
-Dependencies: Stanford NER Tagger
+-Dependencies: Stanford NER Tagger
 
-Libraries: Available in requirements.txt.
+-Libraries: Available in requirements.txt.
 
-To run this Project:
+4.) To run this Project:
 Clone this repo and pip install the requirements
 git clone https://github.com/VirtualGoat/Twitter-Profile-Analyzer.git
 cd Twitter-Profile-Analyzer
