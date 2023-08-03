@@ -23,11 +23,15 @@
 -Libraries: Available in requirements.txt.
 
 4.) To run this Project:
-Clone this repo and pip install the requirements
-git clone https://github.com/Ankur-Tube/Twitter_Scraper
-cd Twitter-Profile-Analyzer
-pip install -r requirements.txt
-python main.ipynb
+-Clone this repo and pip install the requirements
+
+    -git clone https://github.com/Ankur-Tube/Twitter_Scraper
+
+    -cd Twitter-Profile-Analyzer
+
+    -pip install -r requirements.txt
+
+    -python main.ipynb
 
 5.) Flow of project:
 -User specifies the username that is to be analyzed
