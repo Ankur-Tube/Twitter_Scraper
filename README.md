@@ -28,7 +28,7 @@ git clone https://github.com/VirtualGoat/Twitter-Profile-Analyzer.git
 cd Twitter-Profile-Analyzer
 pip install -r requirements.txt
 python main.ipynb
-For illustrative purpose, I have scanned the profile and extracted insights from the user @GTThampi2.
+
 Flow of project:
 User specifies the username that is to be analyzed
 
