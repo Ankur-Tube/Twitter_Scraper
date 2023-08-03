@@ -24,17 +24,17 @@
 
 4.) To run this Project:
 Clone this repo and pip install the requirements
-git clone https://github.com/VirtualGoat/Twitter-Profile-Analyzer.git
+git clone https://github.com/Ankur-Tube/Twitter_Scraper
 cd Twitter-Profile-Analyzer
 pip install -r requirements.txt
 python main.ipynb
 
-Flow of project:
-User specifies the username that is to be analyzed
+5.) Flow of project:
+-User specifies the username that is to be analyzed
 
-The name of the specified user and their location(if mentioned on Twiiter) is displayed.
+-The name of the specified user and their location(if mentioned on Twiiter) is displayed.
 
-A graph displaying the sentiments of tweets posted by the user in the specified time. Which include:
+-A graph displaying the sentiments of tweets posted by the user in the specified time. Which include:
 
 Polarity 0 = Neutral Sentiment
 
